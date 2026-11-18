@@ -5,8 +5,8 @@
 </a>
 
 <a href="https://portafolio-six-neon-39.vercel.app/"><img alt="Portafolio" src="https://img.shields.io/badge/PORTAFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8"></a>
-<a href="mailto:TU-CORREO@ejemplo.com"><img alt="Correo" src="https://img.shields.io/badge/CORREO-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171"></a>
+<a href="https://www.linkedin.com/in/paulo-c-p%C3%A9rez-mtz-34734b302/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8"></a>
+<a href="mailto:pau876171@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/CORREO-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171"></a>
 
 <br>
 
